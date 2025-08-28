@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+langchain>=0.1.222
+langchain_community>=0.0.206
+langchain_groq>=0.0.21
+langchain_openai>=0.3.32
+python-dotenv>=1.0.0
+uvicorn>=0.23.1
+langgraph 
+fastapi
