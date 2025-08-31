@@ -1,0 +1,24 @@
+# LangChain and AI dependencies
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langchain-tavily
+python-dotenv
+arxiv
+
+# Web framework and UI
+fastapi
+uvicorn[standard]
+streamlit
+requests
+
+# Search and ML tools
+ddgs
+keybert
+sentence-transformers
+
+# Additional utilities
+pydantic
+
+bs4
